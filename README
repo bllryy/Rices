@@ -1,12 +1,11 @@
-dwm - dynamic window manager
-============================
-dwm is an extremely fast, small, and dynamic window manager for X.
-
-
 Requirements
 ------------
-In order to build dwm you need the Xlib header files.
+In order to build dwm you need the Xlib header files for your distro.
 
+Main Distros I use:
+Gentoo - doas emerge --sync && doas emerge dwm(or clone for git) xorg-server xterm dmenu ttf-dejavu ttf-liberation ttf-hack picom dunst x11-apps/xrandr st
+Arch - doas pacman -Syu && doas pacman -S dwm xorg-server xorg-xinit xterm dmenu ttf-dejavu ttf-liberation ttf-hack picom dunst xorg-xrandr st
+(Ill add more later)
 
 Installation
 ------------
