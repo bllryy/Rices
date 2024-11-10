@@ -1,4 +1,4 @@
-Requirements
+Requirements (For dwm1)
 ------------
 In order to build dwm you need the Xlib header files for your distro.
 
